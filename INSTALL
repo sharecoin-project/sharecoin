@@ -1,0 +1,9 @@
+Building ShareCoin
+
+See doc/readme-qt.rst for instructions on building ShareCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ShareCoin.
+
+See doc/build-*.txt for instructions on building ShareCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of ShareCoin.
