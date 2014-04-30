@@ -25,7 +25,6 @@ namespace Checkpoints
     static MapCheckpoints mapCheckpoints =
         boost::assign::map_list_of
         (     0, hashGenesisBlockOfficial )
-        ( 100, uint256("00000013aa7e478c451feef4742515c50e8e4c656c170b7e95a5c343323c1fea"))
  		;
 
     static MapCheckpoints mapCheckpointsTestnet =
